@@ -28,6 +28,7 @@ Ternary Operator:
 টারনারি ব্যবহার করা হয়। 
 Expression:
 এক্সপ্রেশন ‘’ এটার ভিতর ব্যবহার করা লাগে। 
+*use for checking validate input and searching inside text.
 Regular:
 রেগুলার কে ব্রাকেট , মেটাক্যারাক্টার , কোয়ানটিফায়ার ইত্যাদি নামে ও ভাগ করা যায়। 
 *একটা একটা করে সিলেক্ট করে । 
