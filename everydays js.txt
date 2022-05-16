@@ -38,4 +38,6 @@ Regular:
 *valid or non valid o check kora jay(.com, .org, .net)etc
 Modyfier:
 মডিফায়ার সার্চের ধরন পরিবর্তন করার জন্য ব্যবহার করা হয়। 
+Eroro Handling:
+কতগুলো মেথড আছে যার মাধ্যমে আমরা সহজে ইরর হ্যান্ডেল করতে পারি। 
 
