@@ -1,0 +1,4 @@
+variable:-
+var = in this part we can declar same name variable many times 
+let =  work in Reassign vales 
+const = // we can't reassign and decler value in const
