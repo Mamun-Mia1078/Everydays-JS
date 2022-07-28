@@ -1,0 +1,23 @@
+forIN loop object er jonno beshi kaje lage
+function chaile jekhon kichu return korte pare kono nirdisto type nai 
+anonymous : ei function ea kono nam deowa lage na 
+runtime decler kora jay
+assigned without variable 
+arrow:- smaller function syntax arrow functions are anonymous function 
+can declare without the function keyword 
+can't used in constructor
+multidimentionalArray = ekta arrayr vitor aro onekgulu array dukiye deowa
+de-structure = array vanga ke de-structure bole  
+Map = Map hocche  jugol function 
+{
+
+delete = map er jekono jora ke chaile shei delete kore dite pare
+
+get = spacefic key ke dhore value bahir kore 
+
+clear = jotogulu jora ache sob clear korte pare 
+
+has = spacefic value cheack kore 
+
+
+}
