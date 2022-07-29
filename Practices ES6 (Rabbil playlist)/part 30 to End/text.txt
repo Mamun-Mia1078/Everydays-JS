@@ -1,0 +1,31 @@
+set is collection of data 
+arrayr moto dekhte
+duplicate value containe korte pare na 
+5/ why need class?
+== oop start from class
+class like a bag (programming sob method class ke se ek shate kore rakhte pari
+ jotobar iccha totobar )
+class ke amra reuse korte pari bar bar 
+= constructor hocche class er nijossho function 
+jokhon object create hoy then its called automatically aleda kore call kora lage na 
+constructor kichui return korte pare na 
+Static er somporko class er shate object er shate noy
+inheritance = uttoradhikar {
+    2type of class 1. parent class . 2. child class (powerful ovverrite korte pare)
+    (child class parent classer sob property dhorte avong modify o korte parbe)
+                  superKeyword{
+    sorasori class kora ke superKeyword bola hoy
+                   }
+}
+module = {
+    ekotro kore 
+    module code ke easy kore 
+    export import kore 
+    dubuging evong reuse kora jay easyly 
+    jegulu export kora jay segulu abar amdani o kara jay jemon (function, class, variable)
+    
+    ***There are two type export import
+    1. Named = export import er somoy nam ekoi thake (jemon Mobile = Mobile)
+    2. Default = export hoy ek name import hoy arek name (jemon : goru = cow )  
+    
+    }

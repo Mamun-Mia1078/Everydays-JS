@@ -4,4 +4,7 @@ mySet.add("Pakistan ");
 mySet.add("Iraq");
 mySet.add("Indhonishia");
 mySet.add("Saudi Arabia");
-console.log(mySet);
+console.log(mySet.size);
+console.log(mySet.values());
+
+
