@@ -1,0 +1,10 @@
+truthy value {
+    specafic false na hole 
+    0 na hole  
+    blank na hole 
+    null na hole 
+    undefined na hole 
+}
+Ternary {
+    
+}
