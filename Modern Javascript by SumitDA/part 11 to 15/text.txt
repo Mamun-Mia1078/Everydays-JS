@@ -1,0 +1,10 @@
+// array.push = changed the main array 
+// map = {work like for loop 
+run for every elements(can't change new arry return new array)}
+reduce = {
+    don't change the main array 
+}
+ forIn = object er prottekta value er moddeh giye ja chai ta print korabe likhe hobe 
+          property in (work only object)
+          For of = work stiring , array , object 
+ObjTricks = 
